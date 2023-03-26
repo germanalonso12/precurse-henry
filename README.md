@@ -1,2 +1,1 @@
-# precurse-henry
-este es un repositorio de prueba del modulo 2
+Este proyecto es una pruebna de como crear un repositorio y clonarlo desde github a mi escritorio local
